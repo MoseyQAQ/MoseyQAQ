@@ -11,6 +11,11 @@
 * 计算凝聚态物理
 * 通用力场的开发及其应用
 
+## 技能（Skills）
+* 编程：Python（包括ase、pymatgen、sklearn、pytorch）
+* 服务器：Linux运维
+* 能一次睡12个小时
+
 ## 联系我（Contact）
 
 E-mail: admin@aleeqaq.cc
