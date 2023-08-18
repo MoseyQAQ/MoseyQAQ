@@ -1,5 +1,5 @@
 # Welcome 
-I am now a 3-year undergraduate at Ningbo University. I will start my life as a Ph.D. candidate at Westlake University in the 2024 Fall.
+I am now a third-year undergraduate at Ningbo University. I will start my life as a Ph.D. candidate at Westlake University in 2024 Fall.
 
 ## Education
 * Ningbo University, Schol of Materials Science And Chemical Engineering, Undergraduate, 2020-present
