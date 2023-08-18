@@ -1,21 +1,16 @@
-# 欢迎光临! (Welcome!)
+# Welcome 
+I am now a 3-year undergraduate at Ningbo University. I will start my life as a Ph.D. candidate at Westlake University in the 2024 Fall.
 
-## 教育经历 (Education)
-* 宁波大学，本科，2020-2024，材料科学与工程 （Ningbo University, Bsc, 2020-2024, Major: Materials Science And Engineering）
-* 西湖大学，博士，2024-2029（预计），物理学 (Westlake University, Ph.D Candidate, 2024-2029, Computational Condensed Matter Physics)
+## Education
+* Ningbo University, Schol of Materials Science And Chemical Engineering, Undergraduate, 2020-present
+* Westlake University, School of Science, Ph.D. Student, 2024-??
 
-## 兴趣爱好 (Interest)
+## Interest
+* Molecular Dynamics based on Deep Potential Force Field to investigate chemical reaction.
+* Novel Ferroelectrics 
 
-* 动漫、电影
-* 编程，使用编程解决实际问题
-* 计算凝聚态物理
-* 通用力场的开发及其应用
+## Todo
+* I am now learning DPMD.
 
-## 技能（Skills）
-* 编程：Python（包括ase、pymatgen、sklearn、pytorch）
-* 服务器：Linux运维
-* 能一次睡12个小时
-
-## 联系我（Contact）
-
+## Contact
 E-mail: admin@aleeqaq.cc
