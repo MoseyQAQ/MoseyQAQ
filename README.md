@@ -1,15 +1,15 @@
 # Welcome 
-I am now a fourth-year undergraduate at Ningbo University. I will start my life as a Ph.D. candidate at Westlake University in 2024 Fall.
+I am mosey. I use python3 for pre and post-processing of the atomic simulation.
 
 ## Education
-* Ningbo University, Schol of Materials Science And Chemical Engineering, Undergraduate, 2020-present
-* Westlake University, School of Science, Ph.D. Student, 2024-??
+* Materials science and engineering, Ningbo University, Yangming College, 2020-2024
+* Physics, Westlake University, School of Science, 2024-10086 
 
-## Todo
-* I am now focusing on the enhancement sampling during the chemical reactions with restrained AIMD and the Deep Potential Force Field training.
-* I am also interested in the atomic insight of gas separation and catalysis in the Zeolitic Octahedral Metal Oxides (ZOMOs).
+## Research Interests
+* Ferroelectric materials and computational condensed physics.
+* Machine learning force field development.
+* Workflow development.
 
 ## Contact
 E-mail: admin@aleeqaq.cc
-
 Website: [https://www.aleeqaq.cc](https://www.aleeqaq.cc)
