@@ -1,9 +1,7 @@
 # Welcome 
-I am mosey. I use python3 for pre and post-processing of the atomic simulation. I am learning CPP.
+I am mosey, a Ph.D student from Westlake University. 
+I use python3 for pre and post-processing of the atomic simulation. I am learning CPP.
 
-## Education
-* Materials science and engineering, Ningbo University, Yangming College, 2020.09-2024.06
-* Physics, Westlake University, School of Science, 2024Fall
 
 ## Research Interests
 * Ferroelectric materials and computational condensed matter physics.
