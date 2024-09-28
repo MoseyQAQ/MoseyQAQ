@@ -10,4 +10,4 @@ I use python3 for pre and post-processing of the atomic simulation. I am learnin
 
 ## Contact
 * E-mail: admin@aleeqaq.cc
-* Website: [moseyqaq.github.io)
+* Website: (moseyqaq.github.io)
