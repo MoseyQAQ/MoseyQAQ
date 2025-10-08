@@ -1,5 +1,5 @@
 # Welcome 
-I am mosey, a Ph.D student from Westlake University. 
+I am mosey, a Ph.D candidate from Westlake University. 
 
 I use python3 for pre and post-processing of the atomic simulation. I am learning C++.
 
