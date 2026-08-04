@@ -13,7 +13,8 @@ I manage the [wiki](https://liutheorylab.github.io/) and [website](https://liuth
 * Workflow development.
 
 ## Contact
-* E-mail: admin@aleeqaq.cc
+* E-mail: admin@aleeqaq.cc / lidenan@westlake.edu.cn
 * Website: https://moseyqaq.github.io
+* Google Scholar: https://scholar.google.com/citations?user=NEXuAWYAAAAJ&hl=en
 
 ## K-ON!!!
